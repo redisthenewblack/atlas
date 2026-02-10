@@ -1,3 +1,8 @@
+## Getting Started
+1. Clone or download this repository.
+2. Open the folder as a vault in Obsidian.
+3. Explore the vault following the sections below.
+
 ## Ace System
 - **`+` (Inbox)**: Temporary place for new notes
 - **Atlas**: Knowledge repository (movies, definitions, quotes, ideas)
