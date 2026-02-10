@@ -255,8 +255,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9d08f409b5ef2af3",
+  "active": "d91a832bc5bf77b4",
   "lastOpenFiles": [
+    "README.md",
     "x/vaults/README.md",
     "x/archives/README.md",
     "efforts/README.md",
@@ -282,7 +283,6 @@
     "calendar/quick/2026-02-10 0409.md",
     "calendar/quick/2026-02-10 0406 тестовая заметка номер один.md",
     "x/drawings/Hello world.excalidraw.md",
-    "x/templates/template-weekly.md",
     "x/bases/drawings.base",
     "x/bases/daily.base",
     "Untitled.base",
