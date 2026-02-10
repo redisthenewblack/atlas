@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!README.md",
+                "file": "x/preloaded-properties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!README"
+              "title": "preloaded-properties"
             }
           }
         ]
@@ -107,12 +107,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!README.md",
+                "file": "x/preloaded-properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from !README"
+              "title": "Outgoing links from preloaded-properties"
             }
           }
         ],
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!README.md",
+                "file": "x/preloaded-properties.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of !README"
+              "title": "Outline of preloaded-properties"
             }
           },
           {
@@ -160,6 +160,20 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "3bc3cf6f24d178cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       },
@@ -174,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "!README.md",
+                "file": "x/preloaded-properties.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of !README"
+              "title": "Graph of preloaded-properties"
             }
           }
         ]
@@ -236,13 +250,19 @@
       "command-palette:Open command palette": true,
       "bases:Create new base": true,
       "zk-prefixer:Create new unique note": true,
-      "omnisearch:Omnisearch": true,
       "graph:Open graph view": true,
-      "obsidian-excalidraw-plugin:New drawing": true
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "9d08f409b5ef2af3",
   "lastOpenFiles": [
+    "x/vaults/README.md",
+    "x/archives/README.md",
+    "efforts/README.md",
+    "atlas/README.md",
+    "calendar/daily/README.md",
+    "!README.md",
     "calendar/quick/2026-02-10 0657.md",
     "calendar/quick/2026-02-10 0703.md",
     "calendar/quick/2026-02-10 0702.md",
@@ -250,7 +270,6 @@
     "calendar/quick/2026-02-10 0700.md",
     "calendar/quick/2026-02-10 0659.md",
     "calendar/quick/2026-02-10 0658.md",
-    "!README.md",
     "calendar/weekly/2026-W07.md",
     "calendar/daily/2026-02-10.md",
     "x/drawings/Drawing 2026-02-10 0243.excalidraw.md",
@@ -264,13 +283,8 @@
     "calendar/quick/2026-02-10 0406 тестовая заметка номер один.md",
     "x/drawings/Hello world.excalidraw.md",
     "x/templates/template-weekly.md",
-    "x/templates/template-quick.md",
-    "x/templates/template-daily.md",
-    "x/drawings/Untitled.md",
     "x/bases/drawings.base",
     "x/bases/daily.base",
-    "+/Untitled.md",
-    "+/Untitled 1.md",
     "Untitled.base",
     "calendar/weekly",
     "x/bases/weekly.base",
