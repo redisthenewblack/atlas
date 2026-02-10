@@ -1,0 +1,15 @@
+filters:
+  and:
+    - week.contains(this.file.name)
+    - done != true
+views:
+  - type: list
+    name: Table
+    order:
+      - file.name
+      - file.ctime
+      - type
+    columnSize:
+      file.name: 365
+      file.ctime: 213
+      note.type: 252

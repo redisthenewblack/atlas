@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.folder == "x/drawings"
+views:
+  - type: list
+    name: all

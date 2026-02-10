@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "+",
+  "attachmentFolderPath": "x/files",
+  "userIgnoreFilters": [
+    "x/templates/",
+    "x/files/",
+    "x/archive/"
+  ],
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true
+}

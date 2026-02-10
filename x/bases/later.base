@@ -1,0 +1,58 @@
+filters:
+  and:
+    - file.tags.contains("watch-later")
+views:
+  - type: list
+    name: everything
+    cardSize: 200
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 0.55
+  - type: cards
+    name: youtube
+    filters:
+      and:
+        - type == "videos"
+    image: note.image
+    cardSize: 200
+    imageAspectRatio: 0.55
+  - type: cards
+    name: movies
+    filters:
+      and:
+        - type == ["movies"]
+    image: note.image
+    cardSize: 200
+    imageAspectRatio: 0.55
+  - type: cards
+    name: anime
+    filters:
+      and:
+        - type == ["anime"]
+    image: note.image
+    cardSize: 200
+    imageAspectRatio: 0.55
+  - type: cards
+    name: books
+    filters:
+      and:
+        - type == ["books"]
+    image: note.image
+    cardSize: 200
+    imageAspectRatio: 0.55
+  - type: cards
+    name: manga
+    filters:
+      and:
+        - type == ["manga"]
+    image: note.image
+    cardSize: 200
+    imageAspectRatio: 0.55
+  - type: cards
+    name: games
+    filters:
+      and:
+        - type == ["games"]
+    image: note.image
+    cardSize: 200
+    imageAspectRatio: 0.55

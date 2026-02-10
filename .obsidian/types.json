@@ -1,0 +1,20 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "type": "multitext",
+    "rating": "number",
+    "priority": "number",
+    "created": "date",
+    "area": "multitext",
+    "status": "multitext",
+    "mood": "number",
+    "birthday": "multitext",
+    "dob": "date",
+    "genres": "multitext",
+    "day": "text",
+    "done": "checkbox",
+    "in": "multitext"
+  }
+}

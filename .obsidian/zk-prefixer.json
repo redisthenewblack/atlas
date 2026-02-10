@@ -1,0 +1,5 @@
+{
+  "folder": "calendar/quick",
+  "format": "YYYY-MM-DD HHmm",
+  "template": "x/templates/template-quick"
+}

@@ -1,0 +1,17 @@
+filters:
+  and:
+    - day.contains(this.file.name)
+    - done != true
+views:
+  - type: table
+    name: Table
+    order:
+      - file.ctime
+      - done
+      - file.name
+      - type
+    columnSize:
+      file.ctime: 193
+      note.done: 42
+      file.name: 238
+      note.type: 252
